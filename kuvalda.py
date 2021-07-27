@@ -27,7 +27,6 @@ if args.url is None:
 
 s = requests.Session()
 
-thrds = 500
 thread_list = []
 status_codes = []
 
